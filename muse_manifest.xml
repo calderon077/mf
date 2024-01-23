@@ -1,0 +1,55 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="manausfardamentos.com.br" resolutions="1x" timestamp="1705974096130">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3838441311" ref="index"/>
+    <file name="nomq_index.css" crc="284831272" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3936894949" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="início-favicon.ico" crc="254733942" ref="index"/>
+    <file name="capa.png" crc="111359768" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u145.png" crc="320021439" ref="index"/>
+    <file name="u145-r.png" crc="429990240" ref="index"/>
+    <file name="u153.png" crc="533860886" ref="index"/>
+    <file name="u153-r.png" crc="4091042262" ref="index"/>
+    <file name="u160.png" crc="3976688857" ref="index"/>
+    <file name="u160-r.png" crc="377082710" ref="index"/>
+    <file name="whatsapp-u262.png" crc="3884462120" ref="index"/>
+    <file name="o-email-u270.png" crc="3883449392" ref="index"/>
+    <file name="capa-u112-fr.png" crc="415147807" ref="index"/>
+    <file name="u1452.png" crc="471363654" ref="index"/>
+    <file name="u145-r2.png" crc="3957235119" ref="index"/>
+    <file name="u1532.png" crc="506147758" ref="index"/>
+    <file name="u153-r2.png" crc="523023158" ref="index"/>
+    <file name="u1602.png" crc="3850505322" ref="index"/>
+    <file name="u160-r2.png" crc="4175417260" ref="index"/>
+    <file name="whatsapp-u2622.png" crc="4089351989" ref="index"/>
+    <file name="o-email-u2702.png" crc="69483098" ref="index"/>
+    <file name="u1453.png" crc="4040217544" ref="index"/>
+    <file name="u145-r3.png" crc="4233647604" ref="index"/>
+    <file name="u1533.png" crc="3849001460" ref="index"/>
+    <file name="u153-r3.png" crc="4183168441" ref="index"/>
+    <file name="u1603.png" crc="334292958" ref="index"/>
+    <file name="u160-r3.png" crc="3829197453" ref="index"/>
+    <file name="whatsapp-u2623.png" crc="283389854" ref="index"/>
+    <file name="o-email-u2703.png" crc="77196257" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="logo mf.png" crc="37167090" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="283589081" seo="true" mt="1705974082037" redirect="true"/>
+</manifest>
